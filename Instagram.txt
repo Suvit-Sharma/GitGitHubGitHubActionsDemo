@@ -1,7 +1,7 @@
 Home page 
 	posts
 		Feeling good, attending lecture with 69 others
-		like, dislike, comment
+		like, comment
 	
 
 Bottom Navigation Bar
